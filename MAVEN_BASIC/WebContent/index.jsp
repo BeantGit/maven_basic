@@ -8,5 +8,8 @@
 </head>
 <body>
 <h3>HELLO WORLD</h3>
+<form action="TestServlet" method="get">
+<button value="submit">Submit</button>
+</form>
 </body>
 </html>
